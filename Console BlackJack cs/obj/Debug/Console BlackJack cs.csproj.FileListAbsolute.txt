@@ -1,0 +1,9 @@
+C:\Users\khalifa\Desktop\C#\Console BlackJack cs\bin\Debug\Console BlackJack cs.exe.config
+C:\Users\khalifa\Desktop\C#\Console BlackJack cs\bin\Debug\Console BlackJack cs.exe
+C:\Users\khalifa\Desktop\C#\Console BlackJack cs\bin\Debug\Console BlackJack cs.pdb
+C:\Users\khalifa\Desktop\C#\Console BlackJack cs\obj\Debug\Console BlackJack cs.csprojResolveAssemblyReference.cache
+C:\Users\khalifa\Desktop\C#\Console BlackJack cs\obj\Debug\Console BlackJack cs.exe
+C:\Users\khalifa\Desktop\C#\Console BlackJack cs\obj\Debug\Console BlackJack cs.pdb
+C:\Users\khalifa\Desktop\Lab4\Console BlackJack cs\bin\Debug\Console BlackJack cs.exe.config
+C:\Users\khalifa\Desktop\Lab4\Console BlackJack cs\obj\Debug\Console BlackJack cs.exe
+C:\Users\khalifa\Desktop\Lab4\Console BlackJack cs\obj\Debug\Console BlackJack cs.pdb
